@@ -1,21 +1,21 @@
 def addition(num1, num2)
 sum = num1 + num2
-puts sum.to_s
+return sum
 end
 
 def subtraction(num1, num2)
 difference = num1 - num2
-puts difference.to_s
+return difference
 end
 
 def division(num1, num2)
 quotient = num1 / num2
-puts quotient.to_s
+return quotient
 end
 
 def multiplication(num1, num2)
 product = num1 * num2
-puts product.to_s
+return product
 end
 
 def modulo(num1, num2)
