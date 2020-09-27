@@ -20,7 +20,7 @@ end
 
 def modulo(num1, num2)
 reverse_quotient = num2 / num1
-remainder = reverse_quotient
+remainder = remainder(reverse_quotient)
 end
 
 def square_root(num)
