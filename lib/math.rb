@@ -23,6 +23,5 @@ reverse_quotient = num2 / num1
 end
 
 def square_root(num)
-square_root = num **
-return square_root
+num **
 end
