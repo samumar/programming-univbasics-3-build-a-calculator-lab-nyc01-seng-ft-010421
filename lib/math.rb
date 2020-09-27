@@ -23,5 +23,5 @@ reverse_quotient = num2 / num1
 end
 
 def square_root(num)
-return num ** 2
+return sqrt(num)
 end
