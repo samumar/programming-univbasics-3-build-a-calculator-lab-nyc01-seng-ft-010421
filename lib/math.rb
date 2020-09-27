@@ -24,5 +24,6 @@ remainder = reverse_quotient
 end
 
 def square_root(num)
-
+square_root = num **
+return square_root
 end
