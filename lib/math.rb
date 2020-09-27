@@ -19,7 +19,7 @@ return product
 end
 
 def modulo(num1, num2)
-modulo = num2 / num1
+puts num2 % num1
 end
 
 def square_root(num)
